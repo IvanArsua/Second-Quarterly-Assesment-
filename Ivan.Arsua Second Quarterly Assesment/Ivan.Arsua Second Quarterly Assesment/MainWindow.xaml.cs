@@ -24,5 +24,10 @@ namespace Ivan.Arsua_Second_Quarterly_Assesment
         {
             InitializeComponent();
         }
+
+        private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            
+        }
     }
 }
